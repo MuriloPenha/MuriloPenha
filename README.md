@@ -1,10 +1,6 @@
 # ༼ つ ◕_◕ ༽つ Murilo Penha
 
 **`Desenvolvedor FullStack`**
-
-Me chamo Murilo Penha, sou natural de São Paulo e estou em formação na área de tecnologia. Atualmente, estou focado em desenvolvimento Full Stack, com conhecimentos em JavaScript, Python, React e Git, e sigo evoluindo nos estudos de backend, dados e inteligência artificial. Sou apaixonado por tecnologia e venho construindo projetos práticos para desenvolver minhas habilidades e conquistar minha primeira oportunidade na área de TI. 👨‍💻
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
