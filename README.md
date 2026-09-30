@@ -5,7 +5,7 @@
 ### $$\Huge\color{#633890}{\text{Back-end}}$$
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Static Badge](https://img.shields.io/badge/FastAPI-%23009688?logo=FastAPI)
+![Static Badge](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=FastAPI)
 
 
 
