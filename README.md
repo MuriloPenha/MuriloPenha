@@ -17,7 +17,7 @@
 ### $$\Huge\color{#633890}{\text{Banco de dados}}$$
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 
 ### $$\Huge\color{#633890}{\text{Bibliotecas}}$$
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
