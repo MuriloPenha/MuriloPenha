@@ -21,7 +21,7 @@
 
 ### $$\Huge\color{#633890}{\text{Bibliotecas}}$$
 ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
 
 ### $$\Huge\color{#633890}{\text{Ferramentas}}$$
