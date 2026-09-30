@@ -5,7 +5,7 @@
 ### $$\Huge\color{#633890}{\text{Back-end}}$$
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=FastAPI&logoColor=black)
+![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
 
 
 
@@ -17,8 +17,8 @@
 
 
 ### $$\Huge\color{#633890}{\text{Banco de dados}}$$
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### $$\Huge\color{#633890}{\text{Dados e Visualização}}$$
