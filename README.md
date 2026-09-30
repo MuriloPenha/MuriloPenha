@@ -26,8 +26,8 @@
 ![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
 
 ### $$\Huge\color{#633890}{\text{Ferramentas}}$$
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 
 ---
 
