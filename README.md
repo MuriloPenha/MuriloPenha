@@ -2,7 +2,7 @@
 
 ### 
 <p align="center">
-  <img src="https://demolab.com" alt="Tecnologias">
+  <img src="https://shields.io" alt="Tecnologias">
 </p>
 
 ---
