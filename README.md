@@ -3,15 +3,15 @@
 ### $$\Huge\color{#633890}{\text{Tecnologias}}$$
 
 ### $$\Huge\color{#633890}{\text{Back-end}}$$
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=black)
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=FastAPI&logoColor=black)
 
 
 
 
 ### $$\Huge\color{#633890}{\text{Front-end}}$$
-![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/tailwindcss-%23%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)
 
 
