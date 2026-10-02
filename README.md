@@ -6,13 +6,9 @@
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
 
-
-
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&color=633890&repeat=false&width=435&lines=Front-end)](https://git.io/typing-svg)
 ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/tailwindcss-%23%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)
-
-
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&color=633890&repeat=false&width=435&lines=Banco+de+dados)](https://git.io/typing-svg)
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
