@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&color=633890&repeat=false&width=435&lines=Bibliotecas py)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&color=633890&repeat=false&width=435&lines=Bibliotecas)](https://git.io/typing-svg)
 ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
